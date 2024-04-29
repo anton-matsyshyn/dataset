@@ -13,7 +13,7 @@ Table contains a list of characteristics with measure units.
 | Apdex         | percent       |
 | Latency       | ms            |
 | ConsumerLag   | integer       |
-| TotalReceivedBytesMessaging   | byte       |
+| ReceivedBytes   | byte       |
 | ThreadsInUse   | integer       |
 | CpuPercentageUsed   | percent       |
 | MatrixOk   | integer       |
@@ -29,6 +29,6 @@ Table contains a list of characteristics with measure units.
 | Percentile95   | ms       |
 | Percentile99   | ms       |
 | ActiveGrains   | integer       |
-| KafkaProducedMessages   | integer       |
-| KafkaReceivedMessages   | integer       |
+| ProducedMessages   | integer       |
+| ReceivedMessages   | integer       |
 | Throughput   | byte       |
