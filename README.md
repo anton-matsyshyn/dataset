@@ -16,10 +16,10 @@ Table contains a list of characteristics with measure units.
 | TotalReceivedBytesMessaging   | byte       |
 | ThreadsInUse   | integer       |
 | CpuPercentageUsed   | percent       |
-| DistanceMatrixRequestOk   | integer       |
-| DistanceMatrixRequestFailed   | integer       |
-| DistanceRowRequestOk   | integer       |
-| DistanceRowRequestFailed   | integer       |
+| MatrixOk   | integer       |
+| MatrixFailed   | integer       |
+| RowOk   | integer       |
+| RowFailed   | integer       |
 | ErrorLogsCount   | integer       |
 | Gen0Collections   | byte       |
 | Gen1Collections   | byte       |
