@@ -6,7 +6,7 @@ Number of instances: 8615. <br />
 Number of features: 22 + timestamp <br />
 Mesaure interval: 5 min. <br />
 
-Table contains a list of characteristics with measure units.
+The table contains a list of features with measure units.
 
 | Feature       | Unit          |
 | ------------- |:-------------:|
