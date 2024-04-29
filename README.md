@@ -24,6 +24,7 @@ Table contains a list of characteristics with measure units.
 | Gen0Collections   | byte       |
 | Gen1Collections   | byte       |
 | Gen2Collections   | byte       |
+| MemoryTotal   | byte       |
 | Percentile75   | ms       |
 | Percentile95   | ms       |
 | Percentile99   | ms       |
